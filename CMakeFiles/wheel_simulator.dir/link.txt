@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -Wall -Wextra -Wno-long-long -pedantic   CMakeFiles/wheel_simulator.dir/main.cpp.o CMakeFiles/wheel_simulator.dir/wheel_mechanics.cpp.o  -o wheel_simulator -rdynamic -lpython3.5m 

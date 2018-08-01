@@ -1,0 +1,3 @@
+/home/monitoring/source/terramechanics/CMakeFiles/edit_cache.dir
+/home/monitoring/source/terramechanics/CMakeFiles/rebuild_cache.dir
+/home/monitoring/source/terramechanics/CMakeFiles/wheel_simulator.dir
